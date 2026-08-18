@@ -16,8 +16,8 @@ I am a Computer Science Student at FUTA and a passionate Full-Stack JavaScript D
 - **Version Control & Tools:** Git, GitHub, VS Code
 
 ### 📬 Connect With Me
-- **LinkedIn:** [://linkedin.com]([https://://linkedin.com](https://www.linkedin.com/in/oluwanifemi-adelusi-3869713b3/))
-- **Twitter/X:** [@IzzyCodeX]([https://x.com](https://x.com/izzy_codex))
+- **LinkedIn:** [://linkedin.com]((https://www.linkedin.com/in/oluwanifemi-adelusi-3869713b3/))
+- **Twitter/X:** [@IzzyCodeX]((https://x.com/izzy_codex))
 
 ---
 
