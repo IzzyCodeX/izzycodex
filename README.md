@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Oluwanifemi Adelusi (izzycodex) 👋
 
-<!--
-**IzzyCodeX/izzycodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Student at FUTA and a passionate Full-Stack JavaScript Developer. I specialize in building scalable web applications and love building in public.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 **I’m currently learning:** Backend development to scale my full-stack skills.
+- 👯 **I’m looking to collaborate on:** Startups, hackathons, and tech events.
+- 📫 **How to reach me:** Connect via WhatsApp at +2349134145077.
+- 😄 **Pronouns:** He / Him (Mr.)
+- ⚡ **Fun fact:** I love the night grind! That's when the best code gets written. 🙃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+- **Frontend:** React.js, <!--Next.js-->, HTML5, CSS3,
+- **Backend:** Node.js, <!--Express.js-->
+<!-- - **Databases:** MongoDB, PostgreSQL -->
+- **Version Control & Tools:** Git, GitHub, VS Code
+
+### 📬 Connect With Me
+- **LinkedIn:** [://linkedin.com]([https://://linkedin.com](https://www.linkedin.com/in/oluwanifemi-adelusi-3869713b3/))
+- **Twitter/X:** [@IzzyCodeX]([https://x.com](https://x.com/izzy_codex))
+
+---
+
+*“The best way to predict the future is to invent it.”*
