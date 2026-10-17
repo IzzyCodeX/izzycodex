@@ -16,7 +16,6 @@ I am a Computer Science Student at FUTA and a growing Backend Developer.
 
 ### 📬 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/oluwanifemi-adelusi/
-- **Twitter/X:** https://x.com/izzy_codex
 
 ---
 
